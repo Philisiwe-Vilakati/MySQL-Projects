@@ -1,3 +1,15 @@
+# Preppin' Data 2023 - Week 1: Data Source Bank
+
+## Objective
+Clean and aggregate the data from a bank's transaction records.
+ ## Steps
+1. **Load Data**: Import the dataset into your SQL environment.
+2. **Data Cleaning**: Remove any null values and correct data types.
+3. **Aggregation**: Calculate the total transaction amount per customer.
+4. **Output**: Generate a summary table with customer IDs and their total transaction amounts.
+
+## SQL Code
+ 
 SELECT * FROM pd_2023_wk_1;
 ALTER TABLE pd_2023_wk_1 RENAME COLUMN `ï»¿Transaction Code` TO Transaction_Code,
 RENAME COLUMN `Customer Code` TO Customer_Code,
