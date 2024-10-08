@@ -18,5 +18,4 @@ This repository contains solutions to the Preppin' Data 2023 weekly challenges. 
 2. Navigate to the folder of the desired week.
 3. Follow the instructions in the README file for each week to understand the challenge and the solution.
 
-## Contact
-For any questions or suggestions, please open an issue or contact me at [your-email@example.com].
+
