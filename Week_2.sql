@@ -1,4 +1,4 @@
-# Preppin Data 2023 - Week 2: International Bank Account Numbers Data 2023 - Week 2: International Bank Account Numbers
+# Week 2: International Bank Account Numbers
 ## Objective
 Validate and format international bank account numbers.
 
