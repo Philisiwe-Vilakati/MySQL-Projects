@@ -1,3 +1,15 @@
+# Preppin Data 2023 - Week 2: International Bank Account Numbers Data 2023 - Week 2: International Bank Account Numbers
+## Objective
+Validate and format international bank account numbers.
+
+## Steps
+1. **Load Data**: Import the dataset containing bank account numbers.
+2. **Validation**: Check the format of each account number.
+3. **Formatting**: Standardize the format of valid account numbers.
+4. **Output**: Generate a table with validated and formatted account numbers.
+
+## SQL Code
+
 SELECT * FROM pd_2023_wk_2_swift_codes;
 SELECT * FROM pd_2023_wk_2_transactions;
 ALTER TABLE pd_2023_wk_2_transactions RENAME COLUMN `Transaction ID` TO Transaction_ID,
