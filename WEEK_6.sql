@@ -1,3 +1,17 @@
+### Week 6: DSB Customer Ratings
+markdown
+# Preppin Data 2023 - Week 6: DSB Customer Ratings
+
+## Objective
+Rate customers based on their purchase behavior.
+
+## Steps
+1. **Load Data**: Import the customer purchase dataset.
+2. **Data Cleaning**: Ensure data completeness.
+3. **Rating**: Assign ratings based on purchase frequency and amount.
+4. **Output**: Generate a table with customer ratings.
+
+## SQL Code
 SELECT * FROM pd_2023_wk_6;
 #Reshape the data so we have 5 rows for each customer, with responses for the Mobile App and Online Interface being in separate fields on the same row
 CREATE TABLE PD_2023_WK_6_FINAL_TABLE 
