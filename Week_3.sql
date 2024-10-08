@@ -1,3 +1,17 @@
+### Week 3: Targets for DSB
+```markdown
+# Preppin Data 2023 - Week 3: Targets for DSB
+
+## Objective
+Compare actual sales against targets for DSB.
+
+## Steps
+1. **Load Data**: Import the sales and targets datasets.
+2. **Data Cleaning**: Ensure consistency in product names.
+3. **Comparison**: Calculate the difference between actual sales and targets.
+4. **Output**: Create a table showing sales performance against targets.
+
+## SQL Code
 SELECT * FROM pd_2023_wk_3;
 ALTER TABLE pd_2023_wk_3 RENAME COLUMN `ï»¿Transaction Code` TO Transaction_Code,
 RENAME COLUMN `Customer Code` TO Customer_Code,
