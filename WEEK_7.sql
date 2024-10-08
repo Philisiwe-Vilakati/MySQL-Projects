@@ -1,3 +1,17 @@
+### Week 7: Flagging Fraudulent Suspicions
+markdown
+# Preppin Data 2023 - Week 7: Flagging Fraudulent Suspicions
+
+## Objective
+Identify potentially fraudulent transactions.
+
+## Steps
+1. **Load Data**: Import the transaction dataset.
+2. **Data Cleaning**: Standardize transaction details.
+3. **Analysis**: Flag transactions that exceed a certain threshold.
+4. **Output**: Generate a table with flagged transactions.
+
+## SQL Code
 SELECT * FROM account_holders_pd_2023_wk_7;
 SELECT * FROM account_information_pd_2023_wk_7;
 SELECT * FROM transaction_detail_pd_2023_wk_7;
