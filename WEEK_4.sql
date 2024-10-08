@@ -1,3 +1,17 @@
+### Week 4: New Customers
+```markdown
+# Preppin Data 2023 - Week 4: New Customers
+
+## Objective
+Identify and analyze new customers.
+
+## Steps
+1. **Load Data**: Import the customer dataset.
+2. **Data Cleaning**: Remove duplicates and standardize customer information.
+3. **Analysis**: Identify new customers based on their first purchase date.
+4. **Output**: Generate a table with new customer details.
+
+## SQL Code
 #Make a Joining Date field based on the Joining Day, Table Names and the year 2023
 UPDATE january SET `Joining Day` = CONCAT_WS('/',`Joining Day`,'01','2023');
 UPDATE february SET `Joining Day` = CONCAT_WS('/',`Joining Day`,'02','2023');
