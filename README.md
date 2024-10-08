@@ -13,7 +13,7 @@ This repository contains solutions to the Preppin' Data 2023 weekly challenges. 
 - Week 6: DSB Customer Ratings
 - Week 7: Flagging Fraudulent Suspicions
 
-Purpose
+## Purpose
 The purpose of this repository is to:
 
 - Provide solutions to the Preppin’ Data 2023 challenges.
@@ -25,7 +25,7 @@ The purpose of this repository is to:
 2. Navigate to the folder of the desired week.
 3. Follow the instructions in the README file for each week to understand the challenge and the solution.
 
-Getting Started
+## Getting Started
 To get started with the challenges:
 
 1.Ensure you have a SQL environment set up (e.g., MySQL, PostgreSQL).
