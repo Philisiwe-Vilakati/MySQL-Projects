@@ -1,3 +1,17 @@
+### Week 5: DSB Ranking
+```markdown
+# Preppin Data 2023 - Week 5: DSB Ranking
+
+## Objective
+Rank customers based on their total purchase amount.
+
+## Steps
+1. **Load Data**: Import the purchase dataset.
+2. **Data Cleaning**: Ensure data consistency.
+3. **Ranking**: Calculate the total purchase amount and rank customers.
+4. **Output**: Create a table with customer rankings.
+
+## SQL Code
 SELECT * FROM pd_2023_wk_5;
 ALTER TABLE pd_2023_wk_5 RENAME COLUMN `ï»¿Transaction Code` TO Transaction_Code;
 ALTER TABLE pd_2023_wk_5 RENAME COLUMN `Customer Code` TO Customer_Code;
